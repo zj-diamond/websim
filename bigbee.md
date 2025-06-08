@@ -9,7 +9,12 @@
 
 
 # collection of python scripts from open source   
-1. https://github.com/zhutoutoutousan/worldquant-miner
+
+1. https://github.com/rocky-d/wqb
+
+   description: a better machine lib
+   
+3. https://github.com/zhutoutoutousan/worldquant-miner
 
    description: this project is a collection of scripts that generate and submit alphas to the websim platform
 
