@@ -7,6 +7,7 @@
 
    https://github.com/jglazar/notes/blob/main/quant_interview/submitted_alphas.md
 
+3. https://github.com/temph2020/WorldQuant-Brain-Alpha/blob/main/alpha_strategy.py
 
 # collection of python scripts from open source   
 
@@ -14,9 +15,13 @@
 
    description: a better machine lib
    
-3. https://github.com/zhutoutoutousan/worldquant-miner
+2. https://github.com/zhutoutoutousan/worldquant-miner
 
    description: this project is a collection of scripts that generate and submit alphas to the websim platform
+
+3. https://github.com/YHYYDS666/WorldQuant-Brain-Alpha
+
+   description: This is a tool for automatically generating and submitting WorldQuant Brain Alpha expressions.
 
 # collection of training materials from open source
 1. https://github.com/jglazar/notes/blob/main/quant_interview/worldquant_seminar.md
