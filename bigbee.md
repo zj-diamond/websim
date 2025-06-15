@@ -23,6 +23,8 @@
 
    description: This is a tool for automatically generating and submitting WorldQuant Brain Alpha expressions.
 
+4. https://github.com/RussellDash332/WQ-Brain
+
 # collection of training materials from open source
 1. https://github.com/jglazar/notes/blob/main/quant_interview/worldquant_seminar.md
 
