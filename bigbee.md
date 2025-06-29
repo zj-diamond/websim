@@ -41,3 +41,17 @@
 1. https://github.com/jglazar/notes/blob/main/quant_interview/worldquant_seminar.md
 
    description: seminar summary
+
+# collection of algos and beyond:
+1. https://arxiv.org/abs/2002.08245
+
+   description: a new evolutionary algorithm called AutoAlpha to automatically generate effective formulaic alphas from massive stock datasets
+
+2. https://github.com/RL-MLDM/alphagen/
+
+   description: automatic formulaic alpha generation with reinforcement learning
+
+3. https://github.com/ZhuZhouFan/AlphaQCM
+
+   description: implementation of "AlphaQCM: Alpha Discovery in Finance with Distributional Reinforcement Learning"
+   
