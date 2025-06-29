@@ -9,6 +9,8 @@
 
 3. https://github.com/temph2020/WorldQuant-Brain-Alpha/blob/main/alpha_strategy.py
 
+4. https://kylinchen.cn/2023/08/19/AlphaExamples/ 
+
 # collection of python scripts from open source   
 
 1. https://github.com/rocky-d/wqb
@@ -30,6 +32,10 @@
    description: this is a Python-based project divided into two main modules: Alpha Creator and Alpha Simulator.
 
 6. https://github.com/jinx3012/quant
+
+7. https://www.worldquant-miner.world
+
+   description: "Mine alpha for WorldQuant with our powerful interactive agent workbench"
 
 # collection of training materials from open source
 1. https://github.com/jglazar/notes/blob/main/quant_interview/worldquant_seminar.md
